@@ -16,6 +16,7 @@ python distribution). Then we will take a look at Jupyter notebooks, what they
 are, and how to use them. 
 
 **Time:** 2:00pm - 3:00pm 
+
 **Location:** Fred Gruen Seminar Room
 
 
