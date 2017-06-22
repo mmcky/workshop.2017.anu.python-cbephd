@@ -36,3 +36,7 @@ program, and explore the available ecosystem of packages (numpy, pandas, matplot
 We will then move onto discussing Object Oriented Programming 
 and the role of objects and basic Class structure. 
 
+**Time:** 2:00pm - 3:00pm 
+
+**Location:** Fred Gruen Seminar Room
+
